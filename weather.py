@@ -2,7 +2,7 @@ import requests
 from datetime import datetime
 
 # Replace with your OpenWeatherMap API Key
-API_KEY = "458909a312ea50144c8d5ba1b21dafa2"
+API_KEY = "YOUR_API_KEY"
 
 
 def get_weather(city):
