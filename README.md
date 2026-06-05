@@ -1,11 +1,11 @@
 # Weather App
 
 ## 📌 Intern Details
-Intern ID: CITS2063
-Full Name: Dhiya S
-Duration: 4 Weeks
-Project Name: Weather App (CLI)
-Project Scope: Develop a command-line weather application using Python and OpenWeather API to fetch and display real-time weather information for any city worldwide.
+## Intern ID: CITS2063
+## Full Name: Dhiya S
+## Duration: 4 Weeks
+## Project Name: Weather App (CLI)
+## Project Scope: Develop a command-line weather application using Python and OpenWeather API to fetch and display real-time weather information for any city worldwide.
 
 ## 📖 Project Description
 The Weather App is a Python-based command-line application that allows users to retrieve real-time weather information for any city using the OpenWeather API.
